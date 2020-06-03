@@ -1,0 +1,9 @@
+api:
+  routes:
+    - httpVerb: 'GET'
+      path: '/'
+      result: 'Hello World'
+
+    - httpVerb: 'GET'
+      path: '/foo'
+      result: 'POOOOOP'
